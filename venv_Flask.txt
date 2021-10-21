@@ -1,4 +1,4 @@
-python3 -m venv 環境の名前
+python3 -m venv 環境の名前(今回はFlaskとした)
 
 cd ../環境の名前
 
