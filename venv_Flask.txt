@@ -1,0 +1,10 @@
+python3 -m venv 環境の名前
+
+cd ../環境の名前
+
+source 環境の名前/bin/activate
+
+//ここでpip3 install Flask でインストールしたりその環境でinportしたり
+//色々な操作
+
+deactivate
